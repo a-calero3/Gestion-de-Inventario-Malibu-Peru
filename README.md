@@ -18,13 +18,6 @@ Esta empresa tiene como principal objetivo y enfoque la satisfacción de los cli
   <li>En la sección <a href="https://github.com/a-calero3/Prueba/projects">Projects</a> esta el Dahsboard de proyecto con todas las actividades de los hitos a realizar y los diferentes estados en los que se encuentran.</li>
 </ul>
 
-## Tecnologias usadas.
-<ul>
-  <li>Spring Boot</li>
-  <li>Angular</li>
-  <li>MySQL</li>
-</ul>
-
 ## Equipo de Trabajo G4
 
 <ul>
