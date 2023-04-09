@@ -16,7 +16,7 @@ Esta empresa tiene como principal objetivo y enfoque la satisfacción de los cli
   <li>En la carpeta <a href="https://github.com/a-calero3/Gestion-de-Inventario-Malibu-Peru/tree/main/docs">docs</a> se encontrará toda la documentación pertinente del proyecto.</li>
   <li>En la sección <a href="https://github.com/a-calero3/Gestion-de-Inventario-Malibu-Peru/milestones">Issues->Milestones</a> se encuentra definida los Hitos del proyecto.</li>
   <li>En la sección <a href="https://github.com/a-calero3/Gestion-de-Inventario-Malibu-Peru/issues">Issues</a> se encuentra definida todas las actividades del proyecto.</li>
-  <li>En la sección <a href="https://github.com/a-calero3/Gestion-de-Inventario-Malibu-Peru/projects/8">Projects</a> esta el Dahsboard de proyecto con todas las actividades de los hitos a realizar y los diferentes estados en los que se encuentran.</li>
+  <li>En la sección <a href="https://github.com/users/a-calero3/projects/8">Projects</a> esta el Dahsboard de proyecto con todas las actividades de los hitos a realizar y los diferentes estados en los que se encuentran.</li>
 </ul>
 
 ## Equipo de Trabajo G4
